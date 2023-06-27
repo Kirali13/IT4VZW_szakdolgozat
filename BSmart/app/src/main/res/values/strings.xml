@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BSmart</string>
+    <string name="title_activity_login">login</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="already_registered">Van felhasználód?</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="password">Jelszó</string>
+    <string name="email">Email</string>
+    <string name="not_registered">Még nem regisztrált?</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="hello">Üdvözlünk, be vagy jelentkezve!</string>
+</resources>
